@@ -1,4 +1,20 @@
+# 💫 Hi 👋, I'm Aaryan Santosh Pandey
+**Founder & CEO at Inframee & Bitzy | Freelance Web Developer | Turning Ideas into Stunning Digital Experiences 🚀**
 
+Email Me 👉 ✉️ **aaryanpandeyop@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **Currently working on:** AI-powered Portfolio Website, Inframee (Web & Media Solutions Startup), and YouTube Channel: *Code with Aaryan*
+- 🌱 **Actively learning:** Data Science, Machine Learning, Flask, MongoDB, and AI integration in Web Development
+- 👯 **Looking to collaborate on:** Real-world AI/Web Development projects, hackathons, and open-source tools that solve impactful problems
+- 🤝 **Open to:** Freelance opportunities, startup partnerships, and educational content collaborations
+- 💬 **Ask me about:** Full Stack Development, AI in Web, Startup Building, and Tech-based Freelancing
+- 📫 **Reach me at:** aaryanpandeyop@gmail.com  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** I combined AI + Code to build real projects, grow my YouTube, and start a startup — all before turning 19!
+
+## 🔗 I am a Content Creator. 😊😊
+
+Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/code_with_aaryan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithaaryan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodeWithAaryan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaryanpandeyop@gmail.com) 
 
